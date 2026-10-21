@@ -78,7 +78,9 @@ Next, in the Preferred DNS field we add the IP address of the domain controller.
 Now we get to the point where we actually connect to the domain. We navigate to windows Settings again -> System -> About and click on the "Advanced system Settings" button.
 ![WorkStation System: About](Images/Screenshot%202026-10-21%20112225.png)  
 In the new popup we select the "Change" button.
+
 ![WorkStation Advanced System Settings](Images/Screenshot%202026-10-21%20112259.png)  
+
 In this pop up we can select the Domain radio button (instead of the default "Workgroup") and enter our domain name ("cyberclub.ad" in our case) clicking ok will bring up a screen where we can enter our credentials that has the permission to connect new machines to the domain.
 
 ![WorkStation Advanced System Settings: Domain](Images/Screenshot%202026-10-21%20112452.png)  
