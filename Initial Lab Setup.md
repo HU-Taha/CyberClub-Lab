@@ -80,8 +80,13 @@ Now we get to the point where we actually connect to the domain. We navigate to 
 In the new popup we select the "Change" button.
 ![WorkStation Advanced System Settings](Images/Screenshot%202026-10-21%20112259.png)  
 In this pop up we can select the Domain radio button (instead of the default "Workgroup") and enter our domain name ("cyberclub.ad" in our case) clicking ok will bring up a screen where we can enter our credentials that has the permission to connect new machines to the domain.
+
 ![WorkStation Advanced System Settings: Domain](Images/Screenshot%202026-10-21%20112452.png)  
+
 And there we go, the workstation is connected to the domain.
+
 ![WorkStation Pop Up: Welcome](Images/Screenshot%202026-10-21%20112514.png)  
+
 ![WorkStation Pop Up: Restart Suggestion](Images/Screenshot%202026-10-21%20112553.png)  
+
 With this final restart our basic AD environment is set up.
